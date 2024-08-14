@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.env.windows": {
+
+
+        "TF_ENABLE_ONEDNN_OPTS": "0"
+    },
+    "python.terminal.activateEnvInCurrentTerminal": true
+}
